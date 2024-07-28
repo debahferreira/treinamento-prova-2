@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15a347ea-6cb2-4cfc-bb6d-63e834d1dedd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios1/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios1/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios1/Carros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios1/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios1/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios2/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios2/IdadePessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios2/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios2/NotasAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios2/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios3/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios3/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios3/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios3/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios3/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios3/ModeloCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/CalculadoraSalaRetangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/Calculavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/CalculoGeometrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/ConversaoFinanceira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/ConversorMoeda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/ConversorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/ConversorTemperaturaPadrao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/ProdutoFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/Servico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/TabuadaMultiplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/deborahferreira/treinamentocurso2java/desafios4/Vendavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/treinamentocurso2java.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2jhYNLnRwNoKz7JFaNhFu4UOIBw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15a347ea-6cb2-4cfc-bb6d-63e834d1dedd" name="Changes" comment="" />
+      <created>1721840737028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721840737028</updated>
+    </task>
+    <servers />
+  </component>
+</project>
